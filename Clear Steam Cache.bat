@@ -9,4 +9,3 @@ rd /s /q "C:\Program Files (x86)\Steam\*cache
 del /s /q "C:\Program Files (x86)\Steam\*.cachedmsg"
 del /s /q "C:\Program Files (x86)\Steam\*.vdf"
 del /s /q "C:\Program Files (x86)\Steam\*socache.dt"
-pause
